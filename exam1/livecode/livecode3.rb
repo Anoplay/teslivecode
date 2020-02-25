@@ -1,0 +1,1 @@
+puts "ka yada pusinggg yeuhhhh"
